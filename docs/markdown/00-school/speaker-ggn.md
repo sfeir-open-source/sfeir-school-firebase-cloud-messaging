@@ -3,15 +3,14 @@
 # Présentation
 
 ![speaker](./assets/images/jf.jpg)
-![badge](./assets/images/gde.png)
 ![company](./assets/images/logo-sfeir-blanc.png)
 
-## Jean-François Garreau
+## Gérôme Grignon
 
-### CTO front
+### Web Developer
 
 <!-- .element: class="icon-rule icon-first" -->
 
-### @jefbinomed
+### @GeromeGrignon
 
 <!-- .element: class="icon-twitter icon-second" -->
