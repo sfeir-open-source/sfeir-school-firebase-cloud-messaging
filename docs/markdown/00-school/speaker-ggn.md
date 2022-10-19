@@ -2,7 +2,7 @@
 
 # Présentation
 
-![speaker](./assets/images/jf.jpg)
+![speaker](./assets/images/ggn.jpeg)
 ![company](./assets/images/logo-sfeir-blanc.png)
 
 ## Gérôme Grignon
